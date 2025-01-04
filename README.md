@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdul Mueez and I'm a Software Engineer, from Australia</h2>
+![image](https://github.com/user-attachments/assets/9594fc8e-91ab-4130-b40f-7ef1eb420d2f)<h2 align="left">Hi 👋! My name is Abdul Mueez and I'm a Software Engineer, from Australia</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBiY3FyZDRpeHZwc28zODB1N3ozdHZqOXE4aDJkdXo1Z2E4OWo3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.webp)"  />
 
 ###
 
