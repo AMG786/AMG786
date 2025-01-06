@@ -30,7 +30,7 @@
 
 <div align="left">
   <a href="https://github.com/AMG786" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge&border=1px solid gray" height="35" alt="github logo" style="border: 2px solid #FFF;" />
   </a>
   <a href="mailto:abdulmueez917@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/static/v1?message=Hashnode&logo=hashnode&label=&color=2962FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hashnode logo" />
   </a>
   <a href="https://abdul-mueez-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=FFA500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
