@@ -29,8 +29,8 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/AMG786" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge&border=1px solid gray" height="35" alt="github logo" style="border: 2px solid #FFF;" />
+   <a href="https://github.com/AMG786" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" style="box-shadow: 0 0 0 2px white; border-radius: 5px;" />
   </a>
   <a href="mailto:abdulmueez917@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
